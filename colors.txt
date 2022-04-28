@@ -1,4 +1,0 @@
-Red
-Pink
-Yellow
-Blue
